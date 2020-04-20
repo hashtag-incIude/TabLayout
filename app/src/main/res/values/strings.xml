@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="order_delivered">Order Delivered</string>
+    <string name="order_confirmed">Order Confirmed</string>
+    <string name="order_pending">Order Pending</string>
+</resources>
